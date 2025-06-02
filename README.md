@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><b>CS2 Glow (Highlight Enemies and Teammates) 🔐</b></h1>
+  <h1><b>CS2 Glow (Highlight Enemies and Teammates) 🟢🟡</b></h1>
   <img src="image/glow.png" alt="Glow Effect" width="550">
 </div>
 
