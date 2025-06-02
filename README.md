@@ -1,6 +1,6 @@
 <div align="center">
   <h1><b>CS2 Glow (Highlight Enemies and Teammates) 🔐</b></h1>
-  <img src="images/glow.png" alt="Glow Effect" width="550">
+  <img src="glow.png" alt="Glow Effect" width="550">
 </div>
 
 ## Requirements
@@ -24,7 +24,7 @@ CS2 Glow is a Python-based tool that applies RGB-based glow effects to enemies a
      1. In Steam Library, right-click **Counter-Strike 2**.
      2. Go to **Properties** > **General** > **Launch Options**.
      3. Enter `-insecure`.
-   - ![Launch Options Setting](images/setting.png)
+   - ![Launch Options Setting](setting.png)
 
 2. **Dump Offsets**:
    - Run CS2 with `-insecure`, use **cs2-dumper** to dump 'offsets' and `client.dll`.
