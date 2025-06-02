@@ -1,0 +1,8 @@
+localPlayerPawn = 0x18540D0  # dwLocalPlayerPawn (offsets)
+entityList = 0x19FFE48      # dwEntityList  (offsets)
+playerPawnHandle = 0x824     # m_hPlayerPawn (client.dll)
+teamNumber = 0x3E3          # m_iTeamNum (client.dll)
+lifeState = 0x348           # m_lifeState (client.dll)
+glowBase = 0xC00            # m_Glow (client.dll)
+glowColorOverride = 0x40 # m_glowColorOverride (client.dll)
+glowing = 0x51 # m_bGlowing (client.dll)
