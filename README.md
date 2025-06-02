@@ -1,6 +1,6 @@
 <div align="center">
   <h1><b>CS2 Glow (Highlight Enemies and Teammates) 🔐</b></h1>
-  <img src="images/cs2glow.png" alt="Glow Effect" width="300">
+  <img src="images/glow.png" alt="Glow Effect" width="550">
 </div>
 
 ## Requirements
